@@ -16,3 +16,7 @@ import pandas as pd
 df = pd.read_csv('train.csv')
 df
 ```
+
+##Videos
+Primer Video (Segunda Entrega):
+Segundo Video (Entrega Final): 
