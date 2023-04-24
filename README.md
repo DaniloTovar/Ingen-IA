@@ -18,5 +18,5 @@ df
 ```
 
 ## Videos
-- Primer Video (Segunda Entrega): https://youtube.com
-- Segundo Video (Entrega Final): https://youtube.com
+- [Primer Video (Segunda Entrega)](https://youtu.be/PQdGbiXTHUs)
+- [Segundo Video (Entrega Final)](https://youtu.be/0lSqpWefKR4)
