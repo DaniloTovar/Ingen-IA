@@ -30,4 +30,4 @@ df
 
 ## Videos
 - [Primer Video (Segunda Entrega)](https://youtu.be/PQdGbiXTHUs)
-- [Segundo Video (Entrega Final)](https://youtu.be/0lSqpWefKR4)
+- [Segundo Video (Entrega Final)](https://youtu.be/Gj9TsPYIqNw)
